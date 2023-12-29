@@ -9,3 +9,5 @@ public class leapyear {
 
     }
 }
+/*If you entered the year 2023
+2023 is not a leap year */
